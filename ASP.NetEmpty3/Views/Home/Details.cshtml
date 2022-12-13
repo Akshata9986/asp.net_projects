@@ -1,0 +1,59 @@
+﻿@*@model ASP.NetEmpty3.ViewModel.HomeDetailsViewModel
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title></title>
+</head>
+
+<body>
+	<h1>@Model.Title</h1>
+
+	<h3>Name:@Model.Employee.name </h3>
+	<h3>Email:@Model.Employee.email</h3>
+	<h3>Age:@Model.Employee.age</h3>
+	<h3>Id:@Model.Employee.id</h3>
+</body>
+</html>*@
+
+
+
+@{
+    @model ASP.NetEmpty3.ViewModel.HomeDetailsViewModel
+
+    //<h1 class="text-bg-dark"> @Model.Title</h1>
+    
+}
+@*<div class="text-center">
+
+    <h3 class="text-bg-danger"> Age: @Model.Employee.age</h3>
+	<h3 class="text-bg-danger"> Id: @Model.Employee.id</h3>
+    <h3> Name: @Model.Employee.name</h3>
+    <h3>Email:@Model.Employee.email</h3>
+
+</div>*@
+
+<div class="row justify-content-center m-3">
+	<div class="col-sm-8">
+		<div class="card">
+			<div class="card-header">
+				<h1 class="text-bg-dark">@Model.Title</h1>
+			</div>
+
+			<div class="card-body text-center">
+				<img class="card-img-top" src="~/images/employee.jpg" asp-append-version="true"/>
+				<h3>Employee ID: @Model.Employee.id</h3>
+				<h3>Employee Name: @Model.Employee.name</h3>
+				<h3>Employee Age: @Model.Employee.age</h3>
+				<h3>Employee Email: @Model.Employee.email</h3>
+			</div>
+
+			<div class="card-footer text-center">
+				<a asp-controller="Home" asp-action="Details1" asp-route-id="@Model.Employee.id" class="btn btn-success">Back</a>
+			</div>
+		</div>
+	</div>
+
+</div>

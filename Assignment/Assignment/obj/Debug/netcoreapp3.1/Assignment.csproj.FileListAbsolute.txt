@@ -1,0 +1,14 @@
+C:\Users\107016\Desktop\Asp.Net Projects\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.exe
+C:\Users\107016\Desktop\Asp.Net Projects\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.deps.json
+C:\Users\107016\Desktop\Asp.Net Projects\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.json
+C:\Users\107016\Desktop\Asp.Net Projects\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.dev.json
+C:\Users\107016\Desktop\Asp.Net Projects\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.dll
+C:\Users\107016\Desktop\Asp.Net Projects\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.pdb
+C:\Users\107016\Desktop\Asp.Net Projects\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.csproj.AssemblyReference.cache
+C:\Users\107016\Desktop\Asp.Net Projects\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107016\Desktop\Asp.Net Projects\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfoInputs.cache
+C:\Users\107016\Desktop\Asp.Net Projects\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfo.cs
+C:\Users\107016\Desktop\Asp.Net Projects\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\107016\Desktop\Asp.Net Projects\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.dll
+C:\Users\107016\Desktop\Asp.Net Projects\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.pdb
+C:\Users\107016\Desktop\Asp.Net Projects\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.genruntimeconfig.cache

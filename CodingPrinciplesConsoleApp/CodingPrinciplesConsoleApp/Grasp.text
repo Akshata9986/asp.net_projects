@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace CodingPrinciplesConsoleApp
+{
+    class Grasp
+    {
+   	Information expert
+	Creator
+	Controller
+	Indirection
+	Low coupling
+	High cohesion
+	Polymorphism
+	Protected variations
+	Pure fabrication
+    }
+}

@@ -1,0 +1,21 @@
+﻿Reposatory pattern
+
+reposatory pattern contains at least two partispents i.e
+repo interface and repo class that implimenbts the repo interface
+
+benifits of the repo pattren is that it is easy to reuse the code
+understandable
+can achive loosly coupled
+
+
+
+*Migration files
+this file keeps the database schema and the application classes in cync with each other
+to work with migrations in asp.net core we need package manager console or .net core cli
+.Net Core is a cross platform cli tool 
+
+many cmd to work with the migration files
+
+get-help about_entityFramework (provides entity framework corfe help)
+Add-Migration(to add new migration)
+upda

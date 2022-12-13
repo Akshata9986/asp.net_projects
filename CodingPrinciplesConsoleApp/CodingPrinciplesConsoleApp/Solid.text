@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace CodingPrinciplesConsoleApp
+{
+    class Solid
+    {
+    S-single responsibility principle
+    O- open-closed principle
+    L-
+    }
+}
